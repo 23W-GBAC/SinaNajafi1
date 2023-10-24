@@ -1,3 +1,2 @@
 Hello! Im Sina Najafi
-Bachelor student (Health Informatics)
-.....................................
+Bachelor student (Health Informatics).
