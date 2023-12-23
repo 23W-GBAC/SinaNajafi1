@@ -13,7 +13,7 @@ Since the beginning of the humanity, people were looking for security to establi
 From ancient Egyptian’s security guards to Artificial intelligence (AI) and machine learning (ML):
 We can go back in time to see early examples in the Ancient Egyptian Pharaohs who hired private security guards for personal protection. Also, Thomas Jefferson in 1795 created the Jefferson disk or wheel cypher, which was a secure method to encode and decode messages. Today, Artificial intelligence and machine learning have enabled security systems to learn and adapt to changing threats. Security technology helps mitigate risk by preventing unauthorized access, identifying potential incidents, allowing fast responses, deterring criminal behavior and capturing crucial evidence in the event that a breach occurs.
 
-![480px-Jefferson's_disk_cipher](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/738f3f04-32e6-4b69-b3c9-897360a37884)"
+![480px-Jefferson's_disk_cipher](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/738f3f04-32e6-4b69-b3c9-897360a37884)
 
 Now, here you can see some of the most advanced security systems, which, is being used widely around the world. These advanced security systems contribute to a multi-layered defense strategy, addressing various aspects of modern cyber security challenges:
 1. Biometric Access Control:
@@ -39,6 +39,8 @@ AI-Powered Threat Detection is AI is utilized in various ways to detect and prev
    - Requires continuous authentication and authorization for every user and device.
      
 Zero trust (ZT) is the term for an evolving set of cyber security paradigms that move defenses from static, network-based perimeters to focus on users, assets, and resources. Zero trust architecture (ZTA) uses zero trust principles to plan industrial and enterprise infrastructure and workflows.
+
+![hacking-3112539_1280](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/317bb286-0c7a-4d11-a2c7-0e9d8dac4feb)
 
 5. Endpoint Detection and Response (EDR):
    - Monitors and responds to advanced threats at the endpoint level.
