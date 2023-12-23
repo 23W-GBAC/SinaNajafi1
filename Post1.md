@@ -87,3 +87,5 @@ Quantum-safe cryptography refers to efforts to identify algorithms that are resi
 
 Nowadays, you can see how security systems are growing and this progress is being more and more complex and widespread overtime. Obviously, this is because we live in information age, as a result, the need for security in information is compulsory.  
 Sources: Google Scholar, vodafone.com, avigilon.com, paloaltonetworks.com, rapid7.com, etsi.org, ChatGP, Wikipedia, tracktik.com, grainger.com, securepointng.com, msinfokom.com, blogs.adb.org, matrixcomsec.com
+
+![Integrated-Security-Systems-Blog-Image](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/cfffa22f-cf83-4297-a72b-b1faaabeb9a1)
