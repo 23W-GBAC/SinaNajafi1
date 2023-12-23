@@ -6,6 +6,7 @@ Security by its own definition is the state of being free from danger or threat.
 Since the beginning of the humanity, people were looking for security to establish a peaceful life within their country, city and their home. Of course, looking for security has led to massive wars between nations throughout history.
 
 ![ancient-armor-black-and-white-chivalry-208674](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/d3bff458-e54e-4dd7-83b6-8f5b8db25117)
+![SS-KH_security-camera-pros-and-cons-HRO](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/f62b77b3-22ce-416c-8f68-59081221dd97)
 
 From ancient Egyptian’s security guards to Artificial intelligence (AI) and machine learning (ML):
 We can go back in time to see early examples in the Ancient Egyptian Pharaohs who hired private security guards for personal protection. Also, Thomas Jefferson in 1795 created the Jefferson disk or wheel cypher, which was a secure method to encode and decode messages. Today, Artificial intelligence and machine learning have enabled security systems to learn and adapt to changing threats. Security technology helps mitigate risk by preventing unauthorized access, identifying potential incidents, allowing fast responses, deterring criminal behavior and capturing crucial evidence in the event that a breach occurs.                                                          
