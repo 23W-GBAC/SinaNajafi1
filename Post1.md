@@ -21,6 +21,9 @@ Now, here you can see some of the most advanced security systems, which, is bein
    - Provides a higher level of security compared to traditional methods like passwords.
      
      This is a valid authentication method and it is mostly used in embassies. For example: Biometric Photo and Biometric Fingerprint.
+
+     ![biometric](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/4068f61f-62be-4792-944c-9255dd8ec153)
+
      
 2. AI-Powered Threat Detection:
    - Uses artificial intelligence to analyze patterns and detect anomalies in network traffic or user behavior.
