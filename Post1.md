@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
-                                                     ###Security Systems Nowadays  
+
+# Security Systems Nowadays 
+
 Hello people, this blog is about “security” in information field and diverse security systems.
 Security by its own definition is the state of being free from danger or threat. It seems this concept is being forgotten among people overtime and is becoming like a normal stereotype. This concept has integrated with technology overtime and today it is a complex network around the world in different fields.
 Since the beginning of the humanity, people were looking for security to establish a peaceful life within their country, city and their home. Of course, looking for security has led to massive wars between nations throughout history.                               
@@ -38,9 +39,9 @@ In cloud environments- like VMware horizon- it detects and prevents the misconfi
    - Provides insights into emerging threats and vulnerabilities.
    - These platforms play a crucial role in helping organization stay informed about latest threats.
 Some Threat Intelligence Platforms are:
-1.	IBM X-Force Exchange: Provides threat intelligence sharing and collaboration and provides a database of threat indicators and vulnerabilities.
-2.	Anomali ThreatStream: Offers orchestration and automation for threat response.
-3.	Cisco Talos Intelligence: Gives threat intelligence for Cisco security products. Also, offers updates on the latest threat.
+   -IBM X-Force Exchange: Provides threat intelligence sharing and collaboration and provides a database of threat indicators and vulnerabilities.
+   -Anomali ThreatStream: Offers orchestration and automation for threat response.
+   -Cisco Talos Intelligence: Gives threat intelligence for Cisco security products. Also, offers updates on the latest threat.
 9. Network Traffic Analysis (NTA):
    - Examines network traffic to detect and respond to suspicious activities.
    - Enhances visibility into network behavior for better threat detection.
