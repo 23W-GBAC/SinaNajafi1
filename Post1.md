@@ -85,7 +85,8 @@ Collecting a real-time and historical record of what's happening on your network
     
 Quantum-safe cryptography refers to efforts to identify algorithms that are resistant to attacks by both classical and quantum computers, to keep information assets secure even after a large-scale quantum computer has been built.
 
-Nowadays, you can see how security systems are growing and this progress is being more and more complex and widespread overtime. Obviously, this is because we live in information age, as a result, the need for security in information is compulsory.  
+Nowadays, you can see how security systems are growing and this progress is being more and more complex and widespread overtime. Obviously, this is because we live in information age, as a result, the need for security in information is compulsory.
+
 Sources: Google Scholar, vodafone.com, avigilon.com, paloaltonetworks.com, rapid7.com, etsi.org, ChatGP, Wikipedia, tracktik.com, grainger.com, securepointng.com, msinfokom.com, blogs.adb.org, matrixcomsec.com
 
 ![Integrated-Security-Systems-Blog-Image](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/cfffa22f-cf83-4297-a72b-b1faaabeb9a1)
