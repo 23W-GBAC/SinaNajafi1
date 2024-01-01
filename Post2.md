@@ -15,7 +15,7 @@ A video game or computer game is an electronic game that involves interaction wi
 
 If we want to look at playing games in a stereotypical way, we can say that video games and gaming devices are built to spend time in free times. Actually, this is completely true and video games were originally made for this purpose. In October 1958, Physicist William Higinbotham created what is thought to be the first video game, and it was a very simple tennis game. But nowadays by considering the advancements in this topic, this is just one aspect of gaming.
 
-Pic
+<img src="" alt="Tennis for Two, 1958" width="300" height="200"> 
 
 In this blog, firstly, I will write about advantages and disadvantages of gaming in mental and physical health. Then I will write about the relation of video games in increasing skills in a profession. Also, you will see about gaming and technology trends as well as presence of gaming in the education field.
 Overall, Advantages of video games include cognitive stimulation, improved problem-solving skills, and social interaction in multiplayer games. However, potential disadvantages include excessive screen time leading to sedentary lifestyle, potential for addiction, and concerns about violent content affecting behavior in some cases. All of these cases can have positive and negative effects on mental and physical health, but honestly there are more disadvantages on both mental and physical health than advantages. So, balancing gaming with other activities is crucial for a healthy lifestyle. Of course, time that you spend on gaming is important on these effects.
