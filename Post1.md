@@ -3,7 +3,7 @@
 
 Hello people, this blog is about “security” in information field and diverse security systems.
 
-Security by its own definition is the state of being free from danger or threat. It seems this concept is being forgotten among people overtime and is becoming like a normal stereotype. This concept has integrated with technology overtime and today it is a complex network around the world in different fields.
+Security by its own definition is the state of being free from danger or threat. It seems this concept is being forgotten among people over the time and is becoming like a normal stereotype. This concept has integrated with technology overtime and today it is a complex network around the world in different fields.
 
 Since the beginning of the humanity, people were looking for security to establish a peaceful life within their country, city and their home. Of course, looking for security has led to massive wars between nations throughout history.
 
