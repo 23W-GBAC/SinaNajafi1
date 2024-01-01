@@ -11,7 +11,7 @@ Hello people,
 
 A video game or computer game is an electronic game that involves interaction with a user interface or input device (such as a joystick, controller, keyboard, or motion sensing device) to generate visual feedback from a display device.
 
-pic
+![6495da7241185414c12ddc02_videoGamePlanet-p-1080](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/21077801-1d79-4af7-9025-2f251c14f30d)
 
 If we want to look at playing games in a stereotypical way, we can say that video games and gaming devices are built to spend time in free times. Actually, this is completely true and video games were originally made for this purpose. In October 1958, Physicist William Higinbotham created what is thought to be the first video game, and it was a very simple tennis game. But nowadays by considering the advancements in this topic, this is just one aspect of gaming.
 
