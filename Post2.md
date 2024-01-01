@@ -15,6 +15,7 @@ A video game or computer game is an electronic game that involves interaction wi
 
 If we want to look at playing games in a stereotypical way, we can say that video games and gaming devices are built to spend time in free times. Actually, this is completely true and video games were originally made for this purpose. In October 1958, Physicist William Higinbotham created what is thought to be the first video game, and it was a very simple tennis game. But nowadays by considering the advancements in this topic, this is just one aspect of gaming.
 
+![b1c204-2](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/2036a787-92b1-436f-9910-349b9212089d)
 
 
 In this blog, firstly, I will write about advantages and disadvantages of gaming in mental and physical health. Then I will write about the relation of video games in increasing skills in a profession. Also, you will see about gaming and technology trends as well as presence of gaming in the education field.
@@ -32,8 +33,6 @@ Now here you can see some of advantages:
 1. Coordination: Action games can improve hand-eye coordination and fine motor skills.
 2. Physical Activity: Certain video games, like those using motion-sensing controllers or virtual reality, can encourage physical movement.
    
-Pic    pic
-
 Negative side:
 ### Mental Health:
 1. Addiction: Excessive gaming can lead to addiction, impacting one's daily life, relationships, and responsibilities.
@@ -45,8 +44,6 @@ Negative side:
 2. Sleep Disturbances: Late-night gaming can disrupt sleep patterns and lead to sleep-related problems.
 3. Eye Strain: Extended screen time may cause eye strain and discomfort.
    
-Pic     pic
-
 ### Profession and Gaming
 Now you probably wonder how playing games contributes to increase our skill in a specific field. This mainly depends on these cases:
 
@@ -69,33 +66,10 @@ Technology Trends:
 2. Artificial Intelligence (AI): AI integration expanded across various sectors, from virtual assistants to enhanced data analysis and automation.
 3. Edge Computing: Processing data closer to the source (edge) rather than relying solely on centralized cloud servers became more prevalent.
    
-Pic     pic
-
 ### Gaming in Education
 
 Gaming in education has gained traction as an innovative approach to engage students and enhance learning experiences. Integrating educational games into curricula promotes critical thinking, problem-solving, and collaboration. These games often provide a dynamic environment that adapts to individual student progress, fostering a personalized learning journey. Beyond academic benefits, gaming can instill skills such as decision-making and strategic planning, preparing students for real-world challenges. As technology advances, the potential for immersive and educational gaming experiences continues to grow, shaping the future of interactive learning. One of the educational games is “Minecraft” which is being used in some of the schools in Sweden and European countries.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sources: Wikipedi, Google Scholar, ChatGPT, verzion.com, insightsoftware.com, scienceabc.com, aps.org, quora.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Sources: Wikipedi, Google Scholar, ChatGPT, verzion.com, insightsoftware.com, scienceabc.com, aps.org, quora.com, masterycoding.com, history.com
