@@ -11,3 +11,9 @@
 (https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/317bb286-0c7a-4d11-a2c7-0e9d8dac4feb)
 
 (https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/317bb286-0c7a-4d11-a2c7-0e9d8dac4feb)
+
+# P2
+
+![6495da7241185414c12ddc02_videoGamePlanet-p-1080](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/21077801-1d79-4af7-9025-2f251c14f30d)
+
+![b1c204-2](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/2036a787-92b1-436f-9910-349b9212089d)
