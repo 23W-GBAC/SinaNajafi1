@@ -52,6 +52,7 @@ Encouraging the adoption of water-efficient appliances, fixtures, and  industria
 ### Why We Don’t Use Ocean Water?    
     
 Probably, people will think about desalination, when we talk about a solution for lack of water, because desalination is the answer of question (Why we don’t use ocean water?).
+
 While desalination provides a reliable and consistent source of freshwater, it may not universally be considered the most reliable option due to factors such as high costs, energy intensity, and environmental impact. Its suitability as the primary solution depends on specific regional needs and conditions. In many cases, a balanced approach that includes desalination along with other water sources and sustainable practices is recommended for a resilient water supply system.
 
 Finally, By combining these cutting-edge technologies with efficient policies and global cooperation, there is potential to mitigate water scarcity and ensure a more sustainable future for water resources. Raising awareness about water conservation practices and promoting community involvement can lead to sustainable water management practices at the grassroots level.
