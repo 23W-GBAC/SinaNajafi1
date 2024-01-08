@@ -18,7 +18,7 @@ In some regions, industries such as manufacturing and energy production also con
 Compared to agriculture, household usage (washing, drinking, etc.) is not playing significant role in water consumption.
 Efforts to manage water resources sustainably often focus on improving water use efficiency in agriculture, adopting water-saving technologies in industries, and promoting water conservation practices in households.
 
-Pic
+![water-consumption-worldwide](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/b8037cc6-83e7-415c-85ab-41622cdcc90b)
 
 Here are some innovative strategies to overcome the barrier:
 
@@ -58,4 +58,4 @@ Finally, By combining these cutting-edge technologies with efficient policies an
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Sources: ChatGPT, Google Scholar, byjus.com, mooreforstaterep.com
+Sources: ChatGPT, Google Scholar, byjus.com, mooreforstaterep.com, tece.com
