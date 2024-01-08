@@ -22,4 +22,4 @@
 
 (https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/02ad47bf-c62f-4d46-a89c-79657178fd0c)
 
-(https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/b8037cc6-83e7-415c-85ab-41622cdcc90b)
+(https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/448b91db-2f91-4799-af7b-4b7e529d212a)
