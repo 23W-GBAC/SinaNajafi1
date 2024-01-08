@@ -8,10 +8,12 @@ Approximately 71% of the global population had access to improved water sources 
 
 Nowadays, water is accessible easily, and maybe this is the reason why people pay less attention how to use water correctly. However, warnings about water consumption have made people a little conscious about the situation. In fact, about 71% of Earth's surface is covered by water, predominantly in the form of oceans. However, only around 2.5% of Earth's water is a freshwater, and the majority of that is locked in glaciers and ice caps. This leaves a relatively small percentage, roughly 0.3%, available as surface water in lakes, rivers, and swamps. Of this accessible freshwater, not all is suitable for drinking due to contamination and pollution. The amount of readily drinkable water is a fraction of the total freshwater resources, highlighting the importance of water conservation and sustainable usage.
 
-Pic
+
 
 Agriculture is the sector that uses the most water globally. Irrigation for crops, including rice paddies and other water-intensive crops, accounts for a significant portion of water consumption. It varies regionally, with water-intensive agriculture playing a particularly substantial role in areas with large-scale farming.
+
 In some regions, industries such as manufacturing and energy production also contribute significantly to water usage. Additionally, domestic water use, including residential consumption and municipal services, plays a role, but it generally constitutes a smaller share compared to agriculture and certain industrial processes.
+
 Compared to agriculture, household usage (washing, drinking, etc.) is not playing significant role in water consumption.
 Efforts to manage water resources sustainably often focus on improving water use efficiency in agriculture, adopting water-saving technologies in industries, and promoting water conservation practices in households.
 
