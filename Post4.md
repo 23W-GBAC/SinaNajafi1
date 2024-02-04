@@ -33,7 +33,7 @@ Listening to calming music before bedtime may help improve sleep quality and all
    
 It's important to note that while music can be a valuable adjunct to traditional mental health interventions, it is not a standalone cure for mental health disorders. Professional guidance and treatment are essential for managing and treating mental health conditions effectively. Individual responses to music therapy can vary, and it should be incorporated into a broader treatment plan tailored to each person's specific needs.
 
-Pic
+![musiceffectonbrain_755x9999](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/3dee60e8-9d3b-4bf8-8346-f6646db011f2)
 
 ### What is the Scientific Reason of Music Role in Mental Health?
 
@@ -45,5 +45,5 @@ So, maybe if you have stress about your exam, just listen to some classic musics
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Sources: ChatGPT, Google Scholars, indirect, jedfoundation.org, aarp.org, incontact.com.sg      
+Sources: ChatGPT, Google Scholars, indirect, jedfoundation.org, aarp.org, incontact.com.sg, nordangliaeducation.com     
 
