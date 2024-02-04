@@ -23,23 +23,23 @@ Overall, Advantages of video games include cognitive stimulation, improved probl
 
 Now here you can see some of advantages:
 
-#### Mental Health:
+##### Mental Health:
 1. Cognitive Skills: Video games often require problem-solving, critical thinking, and strategic planning, which can enhance cognitive abilities.
 2. Stress Relief: Engaging in video games can provide a healthy escape and serve as a stress reliever.
 3. Social Interaction: Multiplayer games foster social connections and teamwork, promoting social skills and communication.
 4. Research shows that some computer games are effective in preventing Alzheimer’s in old age. 
 
-#### Physical Health:
+##### Physical Health:
 1. Coordination: Action games can improve hand-eye coordination and fine motor skills.
 2. Physical Activity: Certain video games, like those using motion-sensing controllers or virtual reality, can encourage physical movement.
    
 Negative side:
-#### Mental Health:
+##### Mental Health:
 1. Addiction: Excessive gaming can lead to addiction, impacting one's daily life, relationships, and responsibilities.
 2. Aggression: Some studies suggest a link between violent video games and increased aggression, though the causation is debated.
 3. Social Isolation: Spending too much time gaming may contribute to social withdrawal and isolation from real-world interactions.
 
-#### Physical Health:
+##### Physical Health:
 1. Sedentary Lifestyle: Prolonged gaming sessions can lead to a sedentary lifestyle, contributing to health issues like obesity and cardiovascular problems.
 2. Sleep Disturbances: Late-night gaming can disrupt sleep patterns and lead to sleep-related problems.
 3. Eye Strain: Extended screen time may cause eye strain and discomfort.
