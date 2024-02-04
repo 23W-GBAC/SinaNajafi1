@@ -5,7 +5,7 @@ Human has diverse aspects of being healthy. One of the most indispensible aspect
 
 One of the important problems, especially, in students is anxiety. Research suggests that listening to music may lessen the impact of anxiety. A 2019 study found that college students who listened to classical music every day for two months had significantly lower levels of anxiety.  Research showing music has positive effect on emotional well-being, including improving mood, decreasing anxiety and managing stress. Furthermore, depression is another important mental issue in today's societies. The research also stated that since music helps stimulate the areas of the brain involved with reward as well as emotion it can provide intense pleasure in these areas. In the end, this increases positive affect which helps reduce depression.
 
-Pic
+![Student-Stress](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/492c76e1-4b65-49f1-8422-082d9d8c1f96)
 
 Listening to music may stimulate the release of neurotransmitters like dopamine, which can contribute to feelings of pleasure and well-being. Additionally, music can serve as a form of self-expression and emotional release, allowing individuals to connect with their emotions. Engaging with music, whether through listening or creating, has been linked to improved mood, cognitive function, and overall mental well-being.
 
