@@ -48,7 +48,7 @@ Here are some innovative strategies to overcome the barrier:
 ### 9. Water-Saving Technologies:
 Encouraging the adoption of water-efficient appliances, fixtures, and  industrial processes can significantly reduce water consumption in households and industries.
 
-### Why We Don’t Use Ocean Water?    
+### Why We don’t Use Ocean Water?    
     
 Probably, people will think about desalination, when we talk about a solution for lack of water, because desalination is the answer of question (Why we don’t use ocean water?).
 
