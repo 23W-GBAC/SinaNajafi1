@@ -16,7 +16,6 @@ We can go back in time to see early examples in the Ancient Egyptian Pharaohs wh
 
 ![480px-Jefferson's_disk_cipher](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/6c5382e9-5b99-4135-8bc8-da572fa1af5f)
 
-
 Now, here you can see some of the most advanced security systems, which, is being used widely around the world. These advanced security systems contribute to a multi-layered defense strategy, addressing various aspects of modern cyber security challenges:
 
 ### 1. Biometric Access Control:
@@ -26,7 +25,7 @@ Now, here you can see some of the most advanced security systems, which, is bein
      
 This is a valid authentication method and it is mostly used in embassies. For example: Biometric Photo and Biometric Fingerprint.
 
-     ![biometric](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/4068f61f-62be-4792-944c-9255dd8ec153)
+![biometric](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/4068f61f-62be-4792-944c-9255dd8ec153)
 
      
 ### 2. AI-Powered Threat Detection:
