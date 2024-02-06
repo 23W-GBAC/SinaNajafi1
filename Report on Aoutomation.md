@@ -1,4 +1,4 @@
-At this report I’m going to write about automating an image in the blog. My problem was in the area of images in the markdown file. I'm gonna use some HTML and CSS.
+At this report I’m going to write about automating an image in the blog. My problem was in the area of images in the markdown file. I'm gonna use some HTML.
 
 ### 1:
 
