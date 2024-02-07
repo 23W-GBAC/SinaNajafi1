@@ -14,7 +14,9 @@ Since the beginning of the humanity, people were looking for security to establi
 
 We can go back in time to see early examples in the Ancient Egyptian Pharaohs who hired private security guards for personal protection. Also, Thomas Jefferson in 1795 created the Jefferson disk or wheel cypher, which was a secure method to encode and decode messages. Today, Artificial intelligence and machine learning have enabled security systems to learn and adapt to changing threats. Security technology helps mitigate risk by preventing unauthorized access, identifying potential incidents, allowing fast responses, deterring criminal behavior and capturing crucial evidence in the event that a breach occurs.
 
-![480px-Jefferson's_disk_cipher](https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/6c5382e9-5b99-4135-8bc8-da572fa1af5f)
+<p align="center">
+  <img src=https://github.com/23W-GBAC/SinaNajafi1/assets/148863702/6c5382e9-5b99-4135-8bc8-da572fa1af5f >
+</p>
 
 Now, here you can see some of the most advanced security systems, which, is being used widely around the world. These advanced security systems contribute to a multi-layered defense strategy, addressing various aspects of modern cyber security challenges:
 
